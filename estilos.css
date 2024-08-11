@@ -8,6 +8,7 @@ body {
 
 .botao-padrao {
   background-color: var(--marrom-claro);
+  color:black;
   
 }
 
